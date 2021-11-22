@@ -1,0 +1,14 @@
+D:\source\repos\1101calculatorAPP\1101calculatorAPP\1101calculatorAPP\obj\Debug\netstandard2.0\1101calculatorAPP.csprojAssemblyReference.cache
+D:\source\repos\1101calculatorAPP\1101calculatorAPP\1101calculatorAPP\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\source\repos\1101calculatorAPP\1101calculatorAPP\1101calculatorAPP\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\source\repos\1101calculatorAPP\1101calculatorAPP\1101calculatorAPP\obj\Debug\netstandard2.0\1101calculatorAPP.AssemblyInfoInputs.cache
+D:\source\repos\1101calculatorAPP\1101calculatorAPP\1101calculatorAPP\obj\Debug\netstandard2.0\1101calculatorAPP.AssemblyInfo.cs
+D:\source\repos\1101calculatorAPP\1101calculatorAPP\1101calculatorAPP\obj\Debug\netstandard2.0\1101calculatorAPP.csproj.CoreCompileInputs.cache
+D:\source\repos\1101calculatorAPP\1101calculatorAPP\1101calculatorAPP\obj\Debug\netstandard2.0\1101calculatorAPP.dll
+D:\source\repos\1101calculatorAPP\1101calculatorAPP\1101calculatorAPP\obj\Debug\netstandard2.0\ref\1101calculatorAPP.dll
+D:\source\repos\1101calculatorAPP\1101calculatorAPP\1101calculatorAPP\obj\Debug\netstandard2.0\1101calculatorAPP.pdb
+D:\source\repos\1101calculatorAPP\1101calculatorAPP\1101calculatorAPP\bin\Debug\netstandard2.0\1101calculatorAPP.deps.json
+D:\source\repos\1101calculatorAPP\1101calculatorAPP\1101calculatorAPP\bin\Debug\netstandard2.0\1101calculatorAPP.dll
+D:\source\repos\1101calculatorAPP\1101calculatorAPP\1101calculatorAPP\bin\Debug\netstandard2.0\ref\1101calculatorAPP.dll
+D:\source\repos\1101calculatorAPP\1101calculatorAPP\1101calculatorAPP\bin\Debug\netstandard2.0\1101calculatorAPP.pdb
+D:\source\repos\1101calculatorAPP\1101calculatorAPP\1101calculatorAPP\obj\Debug\netstandard2.0\XamlC.stamp
